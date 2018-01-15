@@ -41,6 +41,7 @@
 .article-entry
   @extend $base-style
   clearfix()
+  font-family: serif
   color: color-default
   padding: 0 article-padding
   p, table
@@ -149,13 +150,21 @@
     &:hover
       color: color-default
 
+.article-tag-list
+  padding: article-padding article-padding 0
+
 .article-tag-list-item
-  float: left
   margin-right: 10px
+  display: inline-block
 
 .article-tag-list-link
+  text-decoration: none
+  background: #555
+  border-radius: 5px
+  padding: 5px 10px
+  color: #fff
   &:before
-    content: "#"
+    content: "*"
 
 .article-comment-link
   float: right
