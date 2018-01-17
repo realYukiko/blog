@@ -81,4 +81,4 @@ deploy:
   repo: git@github.com:realyukiko/realyukiko.github.io.git
   branch: master
 
-disqus_shortname: Yukiko
+disqus_shortname: https-jsal-github-io-1
