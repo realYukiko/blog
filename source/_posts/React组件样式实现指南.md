@@ -1,7 +1,7 @@
 ---
 title: React组件样式实现指南
 categories:
-- 技术翻译
+- 技术翻译(Tech Translation)
 tags:
 - React
 - Front-end
