@@ -1,7 +1,7 @@
 ---
 title: Why do I want/need to blog
 category: Blog-En
-tag: Daily Thinking
+tag: Daily Thoughts
 ---
 
 Hi there, it's a good topic for a first post to talk about why to blog. In fact I've built some blog sites before but just failed to keep them alive. They became silent for couples of reasons, mostly is because lost passion on blogging. Not fun and little gain as well. Now I may have a new idea of it. It's worthy to write down what you think during a period and I used or treated blog in a wrong way before when I just be copying/sumarizing the things I read from the other places. It is a cheat that you tell yourself "Look at those notes, I am working hard!". Nope, I found it not only useless but also a waste of time as these notes are just copied from other's mind no matter I have summarized it or not. Just like what I feel about writting reading notes only by putting the word from the book to your note without leaving your own idea which is just a time enjoying writing latters but not thinking about the book. So this time how will I treat blog?
