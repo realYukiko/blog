@@ -1,10 +1,11 @@
 ---
 title: React组件样式实现指南
 categories:
-- 技术翻译(Tech Translation)
+- 技术翻译(Translation-Tech)
 tags:
 - React
 - Front-end
+- 翻译／translation
 ---
 
 原文链接：[The best “styling in React” tutorial you’ve ever seen](https://blog.logrocket.com/the-best-styling-in-react-tutorial-youve-ever-seen-676f1284b945) 
